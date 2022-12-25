@@ -1,5 +1,5 @@
 ### RPG Battle
 
 A python implementation of a text based/terminal battle game
-<img src="./game view.png"/>
-</img>
+
+![GAME IMAGE](https://github.com/shiwi123/RPG-BATTLE/blob/main/game%20view.png)
